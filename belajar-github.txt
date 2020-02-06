@@ -1,0 +1,4 @@
+wpu resolusi
+- konsistem membuat kontent 2x seminggu
+- membuat platform pengelolaan video
+- membuat form diskusi
