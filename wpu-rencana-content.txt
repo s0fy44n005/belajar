@@ -3,7 +3,10 @@ RENCANA CONTENT WPU
 - javascript
   * es6
   * framework javascrip
+    ^ vue
 - struktur data dasar
 - php frameworks
+  ^ laravel
 - interview
 - vlogs
+- python
